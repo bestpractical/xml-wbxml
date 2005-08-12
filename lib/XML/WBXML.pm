@@ -12,7 +12,7 @@ our @EXPORT_OK = qw( xml_to_wbxml wbxml_to_xml );
 
 our @EXPORT = ();
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 require XSLoader;
 XSLoader::load('XML::WBXML', $VERSION);
