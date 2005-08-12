@@ -1,0 +1,5 @@
+Revision history for Perl extension XML::WBXML.
+
+0.01  Thu Aug 11 17:41:04 2005
+	- original version; created by h2xs 1.23 with options
+      		-n XML::WBXML -A -x -b 5.8.3 wbxml
